@@ -141,7 +141,3 @@ powershell -ExecutionPolicy Bypass -File ui-test.ps1   # 窗口集成测试
 ## 许可
 
 [MIT](LICENSE)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Cleoooyan/Inkognito&type=Date)](https://star-history.com/#Cleoooyan/Inkognito&Date)
